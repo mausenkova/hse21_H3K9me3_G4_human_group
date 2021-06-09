@@ -47,7 +47,7 @@
 |--|--|--|--|--|--|
 | Соломенцев Ярослав | human | H9 | ENCFF073SPO | ENCFF305RWK |  |
 | Усенкова Мария | human | H1 | ENCFF587TWB | ENCFF697NMG | 13330  |
-| Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ |  |
+| Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ | 6783  |
 | Мелихедов Артем | human | А549 | ENCFF494QKI | ENCFF164FDB | 27281 |
 | Богданова Алина | human | SK-N-SH | ENCFF501EUA | ENCFF709THW |  |
 | Бессонов Кирилл | human | HCT116 | ENCFF723YDW | ENCFF070HBN |  |
@@ -57,8 +57,12 @@
 ### Длинны пиков
 
 ![len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png)
+![len_hist.H3K9me3_A549.intersect_with_G4.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/len_hist.H3K9me3_A549.intersect_with_G4-1.png)
 ![len_hist.H3K9me3_H1.intersect_with_G4](images/len_hist.H3K9me3_H1.intersect_with_G4.png)
+
 ### Расположение относительно аннотированных генов
 
 ![chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png)
 ![chip_seeker.H3K9me3_H1.intersect_with_G4.plotAnnoPie](images/chip_seeker.H3K9me3_H1.intersect_with_G4.plotAnnoPie.png)
+![chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png)
+
