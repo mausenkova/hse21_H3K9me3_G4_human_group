@@ -45,7 +45,7 @@
 
 | Участник | Организм | Тип клетки | Эксперимент 1 | Эксперимент 2 | Число пиков |
 |--|--|--|--|--|--|
-| Соломенцев Ярослав | human | H9 | ENCFF073SPO | ENCFF305RWK |  |
+| Соломенцев Ярослав | human | H9 | ENCFF073SPO | ENCFF305RWK | 616 |
 | Усенкова Мария | human | H1 | ENCFF587TWB | ENCFF697NMG | 13330  |
 | Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ | 6783  |
 | Мелихедов Артем | human | А549 | ENCFF494QKI | ENCFF164FDB | 27281 |
@@ -56,11 +56,14 @@
 
 ### Длинны пиков
 
+![len_hist.G4ChipIntersect.png](https://raw.githubusercontent.com/YaroslavSolo/hse21_H3K9me3_G4_human/main/images/len_hist.G4ChipIntersect.png)
 ![len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png)
 ![len_hist.H3K9me3_A549.intersect_with_G4.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/len_hist.H3K9me3_A549.intersect_with_G4-1.png)
 ![len_hist.H3K9me3_H1.intersect_with_G4](images/len_hist.H3K9me3_H1.intersect_with_G4.png)
 
 ### Расположение относительно аннотированных генов
+#### H3K9me3_H9.intersect_with_G4_ChIP
+![chip_seeker.G4ChipIntersect.plotAnnoPie.png](https://raw.githubusercontent.com/YaroslavSolo/hse21_H3K9me3_G4_human/main/images/chip_seeker.G4ChipIntersect.plotAnnoPie.png)
 #### H3K9me3_A549.intersect_with_G4_Li_KPDS
 ![chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png)
 #### H3K9me3_H1.intersect_with_G4_Li_K
