@@ -46,7 +46,7 @@
 | Участник | Организм | Тип клетки | Эксперимент 1 | Эксперимент 2 | Число пиков |
 |--|--|--|--|--|--|
 | Соломенцев Ярослав | human | H9 | ENCFF073SPO | ENCFF305RWK |  |
-| Усенкова Мария | human | H1 | ENCFF587TWB | ENCFF697NMG |  |
+| Усенкова Мария | human | H1 | ENCFF587TWB | ENCFF697NMG | 13330  |
 | Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ |  |
 | Мелихедов Артем | human | А549 | ENCFF494QKI | ENCFF164FDB | 27281 |
 | Богданова Алина | human | SK-N-SH | ENCFF501EUA | ENCFF709THW |  |
