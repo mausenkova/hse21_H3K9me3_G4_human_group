@@ -47,7 +47,7 @@
 |--|--|--|--|--|--|
 | Соломенцев Ярослав | human | H9 | ENCFF073SPO | ENCFF305RWK |  |
 | Усенкова Мария | human | H1 | ENCFF587TWB | ENCFF697NMG |  |
-| Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ |  |
+| Ляхова Ксения | human | А549 | ENCFF444EWQ | ENCFF811QUJ | 6783 |
 | Мелихедов Артем | human | А549 | ENCFF494QKI | ENCFF164FDB | 27281 |
 | Богданова Алина | human | SK-N-SH | ENCFF501EUA | ENCFF709THW |  |
 | Бессонов Кирилл | human | HCT116 | ENCFF723YDW | ENCFF070HBN |  |
