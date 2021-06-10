@@ -54,7 +54,7 @@
 
 **После пересечения:** 1488
 
-### Длинны пиков
+### Длины пиков
 
 ![len_hist.G4ChipIntersect.png](https://raw.githubusercontent.com/YaroslavSolo/hse21_H3K9me3_G4_human/main/images/len_hist.G4ChipIntersect.png)
 ![len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png)
