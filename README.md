@@ -71,4 +71,25 @@
 #### H3K9me3_A549.intersect_with_G4_Li_K
 ![chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png)
 
+
+### Анализ пиков после тотального пересечения
+
+![len_hist_H1_A549LiKPDS_A549LiK_intersect.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/len_hist_H1_A549LiKPDS_A549LiK_intersect.png)
+
+![chip_seeker.H1_A549LiKPDS_A549LiK_intersect.plotAnnoPie.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/chip_seeker.H1_A549LiKPDS_A549LiK_intersect.plotAnnoPie.png)
+
+### Визуализация данных в геномном браузере
+
+![Intersected_UCSC.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/screenshots/Intersected_UCSC.png)
+
+![Intersected_UCSC_1.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/screenshots/intersected_UCSC_1.png)
+
 #### Сохраненная сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/mausenkova/hse21_H3K9me3_G4_human_group
+
+
+
+### GO анализ
+
+![pantherdb_group.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/screenshots/pantherdb_group.png)
+
+
