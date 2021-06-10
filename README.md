@@ -71,3 +71,4 @@
 #### H3K9me3_A549.intersect_with_G4_Li_K
 ![chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4.plotAnnoPie.png)
 
+#### Сохраненная сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/mausenkova/hse21_H3K9me3_G4_human_group
