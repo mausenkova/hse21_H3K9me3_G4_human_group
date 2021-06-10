@@ -84,6 +84,7 @@
 
 ![Intersected_UCSC_1.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/screenshots/intersected_UCSC_1.png)
 
+![Intersected_UCSC_2.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/blob/main/images/screenshots/intersected_ucsc2.png)
 #### Сохраненная сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/mausenkova/hse21_H3K9me3_G4_human_group
 
 
