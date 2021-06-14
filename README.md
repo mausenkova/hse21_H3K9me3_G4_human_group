@@ -84,6 +84,9 @@
 
 ![Intersected_UCSC_1.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/raw/main/images/screenshots/intersected_UCSC_1.png)
 
+RWDD3 (RWD-домен, содержащий 3) представляет собой ген, кодирующий белок. С ним связывают - метаболизм белков и SUMOylation .
+Усилитель конъюгации SUMO. Благодаря взаимодействию с UBE2I / UBC9, увеличивает конъюгацию SUMO с белками, способствуя связыванию ферментов E1 и E2, тиоэфирной связи между SUMO и UBE2I / UBC9 и переносу SUMO на определенные целевые белки, среди которых HIF1A, PIAS, NFKBIA, NR3C1 и TOP1. [Ссылка](https://www.genecards.org/cgi-bin/carddisp.pl?gene=RWDD3) на GeneCards.
+
 ![Intersected_UCSC_2.png](https://github.com/mausenkova/hse21_H3K9me3_G4_human_group/blob/main/images/screenshots/intersected_ucsc2.png)
 #### Сохраненная сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/mausenkova/hse21_H3K9me3_G4_human_group
 
